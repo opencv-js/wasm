@@ -1,0 +1,19 @@
+{
+  "name": "@opencv.js/wasm",
+  "description": "opencv.js wasm",
+  "version": "4.4.0",
+  "author": {
+    "name": "morozovsk",
+    "url": "https://github.com/morozovsk"
+  },
+  "homepage": "https://github.com/opencv-js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/opencv-js/wasm.git"
+  },
+  "keywords": ["opencv", "opencvjs", "opencv.js", "utils", "dev", "debug", "error", "exception"],
+  "license": "MIT",
+  "main": "opencv.js",
+  "files": ["opencv.js", "index.d.ts", "types", "opencv.wasm"],
+  "typings": "./index.d.ts"
+}
